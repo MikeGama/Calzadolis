@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.calzadolis.catalogo"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Calzado Lis Catalogo</name>
+
+  <description>
+      App oficial del catalogo calzado lis
+  </description>
+
+  <author href="http://calzadolis.com" email="sistemas@calzadolis.com">
+      Mike Gama
+  </author>
+
+</widget>
