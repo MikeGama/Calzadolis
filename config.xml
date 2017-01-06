@@ -7,14 +7,14 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Calzado Lis Catalogo</name>
+  <name>Calzado Lis Catálogo 2017PV</name>
 
   <description>
       App oficial del catalogo calzado lis
   </description>
 
   <author href="http://calzadolis.com" email="sistemas@calzadolis.com">
-      Mike Gama
+      Miguel Angel Hernandez Gama
   </author>
   <icon src="icon.png"/>
     <icon platform="ios" src="res/icons/ios/icon-small.png" width="29" height="29" />
